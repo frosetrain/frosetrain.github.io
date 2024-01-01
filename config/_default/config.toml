@@ -1,0 +1,12 @@
+theme = "congo"
+baseURL = "https://frosetrain.github.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+disableKinds = ['taxonomy', 'term']
+
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 0
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]

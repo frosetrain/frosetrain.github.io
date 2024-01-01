@@ -1,0 +1,17 @@
+colorScheme = "fire"
+enableSearch = true
+enableCodeCopy = true
+
+[homepage]
+    layout = "profile"
+
+[article]
+    showTableOfContents = true
+    showReadingTime = false
+
+[list]
+    groupByYear = false
+    showSummary = true
+
+[header]
+    layout = "hybrid"

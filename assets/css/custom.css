@@ -1,0 +1,19 @@
+/* I am for real going to put my html pages into Tailwind Play
+ * and just copy the output css. I am too lazy to set up the CLI
+ */
+.w-min {
+    width: min-content;
+}
+.rounded {
+    border-radius: 0.25rem;
+}
+.bg-blue-500 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(59 130 246 / var(--tw-bg-opacity));
+}
+.p-1 {
+    padding: 0.25rem;
+}
+.font-bold {
+    font-weight: 700;
+}
