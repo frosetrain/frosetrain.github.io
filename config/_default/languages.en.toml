@@ -1,0 +1,10 @@
+title = "Frosetrain's Website"
+
+[params.author]
+name = "Frosetrain"
+image = "img/author.jpg"
+headline = "A person"
+bio = "A little bit about me"
+links = [
+    { github = "https://github.com/frosetrain" },
+]
