@@ -6,14 +6,14 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://astro-micro.vercel.app",
-  integrations: [sitemap(), mdx(), pagefind()],
-  vite: {
-    plugins: [tailwindcss()],
-  },
-  markdown: {
-    shikiConfig: {
-      theme: "css-variables",
+    site: "https://frosetrain.github.io",
+    integrations: [sitemap(), mdx(), pagefind()],
+    vite: {
+        plugins: [tailwindcss()],
     },
-  },
+    markdown: {
+        shikiConfig: {
+            theme: "css-variables",
+        },
+    },
 });
