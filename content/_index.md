@@ -1,1 +1,0 @@
-This is a website that I created using Hugo and Congo. I might put some blog posts here in the future.
