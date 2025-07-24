@@ -25,7 +25,7 @@ Since then, I’ve been looking around satellite maps searching for these clone 
 
 ## The schools
 
-I have arranged them in alphabetical order.
+I have arranged them in alphabetical order. The school name used for each heading is the original school that the campus was built for.
 
 ### Bedok Town Secondary School
 
@@ -42,6 +42,8 @@ I have arranged them in alphabetical order.
 ### Commonwealth Secondary School
 
 ### Damai Primary School
+
+### Eunos Primary School
 
 ### Fuchun Primary School
 

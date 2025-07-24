@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2025-02-09T09:02:37.436Z</time>
+  <time>2025-07-24T09:36:56.594Z</time>
   <bounds minlat="1.270420524" minlon="103.721161272" maxlat="1.435211393" maxlon="103.951307631"/>
   <wpt lat="1.331718293" lon="103.922571123">
     <ele>0.000</ele>
@@ -53,6 +53,14 @@ Jurongville Secondary School 1996–</desc>
 Rebuilt 2018</cmt>
     <desc>1984–
 Rebuilt 2018</desc>
+  </wpt>
+  <wpt lat="1.324530991" lon="103.904525859">
+    <ele>0.000</ele>
+    <name>Eunos Primary School</name>
+    <cmt>1984–2023
+Rebuilt 2002–2004</cmt>
+    <desc>1984–2023
+Rebuilt 2002–2004</desc>
   </wpt>
   <wpt lat="1.435211393" lon="103.773161805">
     <ele>0.000</ele>
